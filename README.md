@@ -28,6 +28,13 @@ array = [1, 2, 3]
 puts array[5]
 ```
 Here is an example of using a codeblock for an error that appears in bash.
+## Step 2 - How to take screenshots
+A screenshot is when  you capture a part of your screen from your laptop, desktop or phone.
+This is not to be confused with taking a photo with your phone.
+
+When you can always provide codeblock instead of screenshot.
+If you need to take a screenshot make sure it is not a photo from your phone.
+Only under very limited circumstances will you need to take a hot with your phoe, for example if you need to take a picture of the keyboard.
 
 ### Step 3 - Use Github Flovored Markdown Task List [<sup>[1]</sup>](#references)
 - [ ] Finish Step 1
