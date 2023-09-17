@@ -10,7 +10,7 @@ Because it allows others to copy and past their code to replicate or research is
 
 
 - In order to create codeblocks in markdown you need to use three backticks (`)
-- Not to be confused with qoutation (')
+- Not to be confused with quotation (')
 ``` ruby
 puts "Hello, World!"
 ```
